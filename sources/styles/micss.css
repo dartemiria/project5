@@ -1,0 +1,94 @@
+.body1{
+    background-color: rgb(195, 255, 255);
+}
+.card-title1{
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke-width: 1.3px;
+    -webkit-text-stroke-color: rgb(1, 46, 46);
+    text-shadow: 10px;
+    text-align: center;
+}
+
+.card1{
+    height: 180px;
+}    
+
+.card-title1 img{
+    width: 91px;
+}
+
+.card-title2{
+    color: rgb(83, 197, 185);
+    font-size: 30px;
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: rgb(0, 146, 146)
+}
+
+#section_1{
+    color: rgb(0, 53, 53);
+}
+
+#section_2{
+    color: rgb(0, 53, 53);
+}
+
+#imagine{
+    width: 90px;
+}
+
+.card-text1{
+    text-align: justify;
+}
+
+.card-text2{
+    text-align: justify;
+}
+
+.card-link{
+    color: rgb(29, 197, 197);
+}
+
+.nav-link{
+    color: rgb(29, 197, 197);
+}
+
+.end{
+    color: rgb(2, 61, 61);
+    font-size: 15px;
+}
+
+.card-title{
+    color: rgb(0, 43, 43);
+    text-align: center
+}
+
+.card-text{
+    font-style: italic;
+    color: rgb(0, 45, 45);
+    text-align: justify  
+}
+
+.card-text7{
+    vertical-align: text-bottom;
+}
+
+.btn{
+    background-color: rgb(15, 194, 194);
+}
+
+.card-title9{
+    color: rgb(83, 197, 185);
+    font-size: 30px;
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: rgb(0, 146, 146)
+}
+
+.money{
+    color: rgb(0, 45, 46);
+    font-style: italic
+}
+
+.card-text7{
+    vertical-align: bottom;
+    font-weight:500
+}
